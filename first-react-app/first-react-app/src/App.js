@@ -13,7 +13,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <div className="App">
                     <h1 style={h1Style}> My React Page</h1>
-                    <h2 className = "bio">Auithor bio: This is my first React page…</h2>
+                    <h2 className = "bio">Author bio: This is my first React page…</h2>
                 </div>
                 <p>
                     Edit <code>src/App.js</code> and save to reload.
